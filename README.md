@@ -1,4 +1,4 @@
-# pro-asixc1a-g1
+# pro-asixcb1a-g6
 
 Aquest repositori conté el projecte transversal desenvolupat per l'equip de treball **G1** del grup **asixc1a**.
 
@@ -15,12 +15,7 @@ Aquest repositori conté el projecte transversal desenvolupat per l'equip de tre
 Aquest projecte està escrit en **Markdown** per facilitar la publicació i revisió a GitHub.
 
 ## Membres del grup
-
-- Alumne 1
-- Alumne 2
-- Alumne 3
-- Alumne 4
-
+- Izan Fernández Arrea
 ---
 
 *Institut Tecnològic de Barcelona - ASIX 24/25*
