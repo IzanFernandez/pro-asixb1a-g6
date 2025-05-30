@@ -10,7 +10,7 @@ PROJECTE TRANSVERSAL
 
 
 
-Projecte Transversal
+
 
 ASIXb
 
